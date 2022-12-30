@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousumiaktar&label=Profile%20views&color=0e75b6&style=flat" alt="mousumiaktar" /> </p>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **redux**
 
 - 👨‍💻 All of my projects are available at [https://mousumis-portfolio.netlify.app/](https://mousumis-portfolio.netlify.app/)
 
