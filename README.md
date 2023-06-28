@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **redux**
 
-- 👨‍💻 All of my projects are available at [[https://mousumis-portfolio.netlify.app/](https://mousumis-personal-website.netlify.app/)]([https://mousumis-portfolio.netlify.app/](https://mousumis-personal-website.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://mousumis-personal-website.netlify.app/](https://mousumis-personal-website.netlify.app/))
 
 - 💬 Ask me about **React**
 
