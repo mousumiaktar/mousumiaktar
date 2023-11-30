@@ -39,6 +39,11 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<p align="center">
+  <a href="https://github.com/mousumiaktar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousumiaktar&theme=radical&border=7F3FBF&background=0D1117" alt="Mousumi Aktar"/>
+  </a>
+</p>
 
 
 
