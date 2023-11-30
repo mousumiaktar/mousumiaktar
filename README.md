@@ -14,8 +14,12 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Wrf9Xmecf-e6jVU2tT1hRo6ohu0p1Epql_Hyn1Io8rk/edit?usp=sharing](https://docs.google.com/document/d/1Wrf9Xmecf-e6jVU2tT1hRo6ohu0p1Epql_Hyn1Io8rk/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mousumiaktar.mou.7923/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ridimarahmanm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mousumi-aktar-mou/) 
+<p align="left">
+<a href="https://linkedin.com/in/mousumi-aktar-mou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mousumi-aktar-mou" height="30" width="40" /></a>
+<a href="https://fb.com/mousumiaktar.mou.7923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mousumiaktar.mou.7923" height="30" width="40" /></a>
+<a href="https://instagram.com/ridimarahmanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ridimarahmanm" height="30" width="40" /></a>
+</p>
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
