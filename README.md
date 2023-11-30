@@ -23,11 +23,9 @@
 ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=353535) ![Bootstrap](https://img.shields.io/badge/-NextJS-05122A?style=flat-square&logo=NextJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=NodeJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express%20JS-05122A?style=flat-square&logo=Express-JS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=Tailwind-CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
 
-<p align="center">
-  <a href="https://github.com/mousumiaktar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousumiaktar&theme=radical&border=7F3FBF&background=0D1117" alt="Mousumi Aktar"/>
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mousumiaktar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 
 
