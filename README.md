@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[paste-the-image-url-here](https://github.com/mousumiaktar/mousumiaktar/blob/main/github-header.png?raw=true)" alt="Banner">
+  <img src="https://github.com/mousumiaktar/mousumiaktar/blob/main/github-header.png?raw=true" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mousumi</h1>
